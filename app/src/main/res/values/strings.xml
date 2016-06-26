@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FlickFlop</string>
+    <item type="id" name="action_next" />
+    <item type="id" name="action_flip" />
+    <string name="action_info">Photo info</string>
+    <string name="action_photo">View photo</string>
+
+    <integer name="card_flip_time_full">300</integer>
+    <integer name="card_flip_time_half">150</integer>
+
+</resources>
